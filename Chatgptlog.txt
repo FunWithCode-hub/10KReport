@@ -1,0 +1,378 @@
+
+Hi, what is a 10k-report?
+
+A 10-K report is an annual financial report that publicly traded companies in the U.S. must file with the U.S. Securities and Exchange Commission (SEC). It provides a detailed overview of a company’s financial performance and business operations for the entire fiscal year. 📊
+
+Think of it as the most comprehensive official document about a company’s business and financial health.
+
+Key Sections of a 10-K Report
+1. Business Overview
+Explains what the company does, including:
+
+Products and services
+
+Markets and customers
+
+Business strategy
+Example: A company like Apple Inc. explains its products (iPhone, Mac, services, etc.) and global operations.
+
+2. Risk Factors ⚠️
+Lists major risks that could affect the business, such as:
+
+Economic downturns
+
+Competition
+
+Supply chain issues
+
+Regulatory changes
+
+Companies must disclose these risks to investors.
+
+3. Financial Statements 💰
+Audited financial data, including:
+
+Income Statement (revenue, expenses, profit)
+
+Balance Sheet (assets, liabilities, equity)
+
+Cash Flow Statement
+
+These are usually audited by accounting firms like Deloitte or PwC.
+
+4. Management Discussion & Analysis (MD&A)
+Management explains:
+
+Why financial results changed
+
+Business challenges
+
+Strategic outlook
+
+This section helps investors understand the story behind the numbers.
+
+5. Legal Proceedings
+Details ongoing lawsuits or regulatory issues.
+
+6. Corporate Governance
+Information about:
+
+Board of directors
+
+Executive compensation
+
+Internal controls
+
+10-K vs Other Reports
+Report	Frequency	Purpose
+10-K	Once per year	Full detailed annual report
+10-Q	Quarterly	Shorter quarterly financial updates
+8-K	As needed	Reports major events (CEO change, acquisition, etc.)
+Why 10-K Reports Matter
+Investors and analysts use them to:
+
+Evaluate company performance
+
+Understand risks
+
+Compare companies
+
+Make investment decisions
+
+For example, analysts studying companies like Tesla, Inc. or Microsoft often rely heavily on the 10-K.
+
+💡 Fun fact:
+10-K reports can be 200–400+ pages long because they include very detailed financial and operational disclosures.
+
+If you're interested, I can also show you:
+
+How to read a 10-K like a data analyst (quickly in 10 minutes)
+
+The 5 sections analysts always check first 📈
+
+
+Thank you, what time of the year a company submits their 10-k report?
+
+Companies submit their 10-K report once per year, and the exact timing depends on when their fiscal year ends and their company size. The deadline rules are set by the U.S. Securities and Exchange Commission.
+
+Typical Timeline
+A company must file the 10-K within 60–90 days after the end of its fiscal year. 
+
+Company Type	Deadline After Fiscal Year End
+Large accelerated filers (very large companies)	60 days
+Accelerated filers (mid-size companies)	75 days
+Non-accelerated filers (smaller companies)	90 days
+Example (Most Common Case)
+Many companies have a fiscal year ending December 31.
+
+In that case, the 10-K is usually filed around:
+
+Early March → large companies
+
+Mid-March → medium companies
+
+End of March → smaller companies 
+
+So investors typically see a lot of 10-K filings between March 1 and March 31 each year.
+
+Important Detail
+Companies can file earlier than the deadline if their audited financials are ready. Some companies file in February, especially large ones.
+
+✅ Quick summary:
+
+Filed once per year
+
+Deadline = 60–90 days after fiscal year end
+
+For most companies → March filings.
+
+If you want, I can also explain how analysts or data analysts usually extract insights from a 10-K quickly (without reading all 300 pages) — which might actually be useful given your analytics background. 📊
+
+
+So the submission happens once a year, for any given year?
+
+Yes 👍 — a 10-K is filed once per fiscal year.
+
+A company submits one 10-K report for each completed fiscal year to the U.S. Securities and Exchange Commission.
+
+Example
+If a company’s fiscal year is Jan 1 – Dec 31, 2025:
+
+The 2025 10-K will summarize the entire 2025 financial year
+
+It will typically be filed between February and March 2026
+
+Key Idea
+The report is about the previous year, not the current year.
+
+So the timeline usually looks like this:
+
+Fiscal Year Covered	10-K Filing Time
+2024	Filed in early 2025
+2025	Filed in early 2026
+2026	Filed in early 2027
+During the Year
+Instead of another 10-K, companies submit quarterly updates called Form 10‑Q.
+
+Typical cycle:
+
+3 × 10-Q reports (quarterly updates)
+
+1 × 10-K report (full annual report)
+
+📊 So every year a public company files:
+
+1 annual 10-K
+
+3 quarterly 10-Q reports
+
+occasional Form 8‑K for major events.
+
+✅ Short answer: Yes — one 10-K submission per fiscal year.
+
+If you'd like, I can also explain a very common confusion analysts have between a 10-K and an Annual Report, because they look similar but are actually different documents.
+
+
+Okay, how does a 10-K report look?
+
+A 10-K report is essentially a long, structured document (usually 100–300+ pages) filed with the U.S. Securities and Exchange Commission. It looks similar to a formal financial report or technical document, mostly consisting of text, tables, and financial statements. 
+
+Let me show you what parts of it look like.
+
+1️⃣ The Cover Page (First Page of a 10-K)
+
+https://res.cloudinary.com/investfox/image/fetch/f_webp%2Cq_80/https%3A//honey.investfox.com/uploads/small_apple_10k_cover_ccbbe099ef.png
+
+https://cdn.corporatefinanceinstitute.com/assets/form-10-k-1024x720.png
+
+https://s3.studylib.net/store/data/008866949_1-738b902a3896284909dfeed117105e78-768x994.png
+4
+The first page usually includes:
+
+Company name (e.g., Apple Inc. or Amazon.com, Inc.)
+
+Fiscal year covered
+
+Company headquarters
+
+SEC file number
+
+Stock exchange listing
+
+It clearly states “FORM 10-K” at the top.
+
+2️⃣ Financial Statements Section
+
+https://www.excelpricefeed.com/Content/img/templates/income-summary-10k/apple-2018-10k-income-summary.PNG
+
+https://media.cheggcdn.com/media/c22/c22e7335-5ee4-42cf-a566-a8ae1e015b25/phpbKsPqr.png
+
+https://www.coursehero.com/qa/attachment/34845042/
+Later in the report you see large financial tables, such as:
+
+Income statement (revenue, expenses, profit)
+
+Balance sheet (assets, liabilities, equity)
+
+Cash flow statement
+
+Earnings per share (EPS)
+
+Stock compensation details
+
+These tables usually cover multiple years for comparison.
+
+3️⃣ Major Sections Inside a 10-K
+The document follows a standard structure, usually divided into four main parts:
+
+Part I
+
+Business overview
+
+Risk factors
+
+Properties
+
+Legal proceedings
+
+Part II
+
+Market information
+
+Management Discussion & Analysis (MD&A)
+
+Financial statements
+
+Part III
+
+Directors and executives
+
+Executive compensation
+
+Share ownership
+
+Part IV
+
+Exhibits and supporting documents. 
+
+✅ In simple terms:
+A 10-K looks like a very long PDF report with:
+
+Lots of text explaining the business
+
+Detailed risk descriptions
+
+Financial tables
+
+Notes and disclosures
+
+It’s more like a technical/legal financial document than a glossy corporate brochure.
+
+💡 Since you work with data and software assets, something interesting:
+many analysts and data engineers actually parse 10-K reports automatically (using XBRL data) to extract financial metrics at scale.
+
+If you want, I can also show you:
+
+How analysts quickly scan a 300-page 10-K in ~10 minutes
+
+Where the most useful data is hidden (sections analysts always read). 📊
+
+
+What is a CIK in terms of 10-k submission?
+
+A CIK (Central Index Key) is a unique identification number assigned to a company or individual that files documents with the U.S. Securities and Exchange Commission (SEC). 🆔
+
+It is used to identify the filer in the SEC’s EDGAR database, where documents like the Form 10-K, Form 10-Q, and Form 8-K are stored.
+
+What the CIK Looks Like
+A CIK is a 10-digit number.
+
+Example:
+
+Apple Inc. → CIK: 0000320193
+
+Tesla, Inc. → CIK: 0001318605
+
+This number never changes, even if the company:
+
+changes its name
+
+merges
+
+moves headquarters.
+
+Why the CIK Is Important
+The CIK helps the SEC and analysts:
+
+🔎 Track filings
+
+Every SEC filing is linked to a CIK.
+
+📂 Search the EDGAR system
+
+Investors often search filings by CIK instead of company name.
+
+🧾 Standardize identification
+
+Many companies may have similar names, but the CIK uniquely identifies the filer.
+
+Where You See the CIK in a 10-K
+It appears on the first page (cover page) of the filing, usually near:
+
+company name
+
+IRS employer identification number
+
+state of incorporation.
+
+✅ Simple way to think about it:
+
+Company name = human-readable identity
+
+CIK = SEC database ID
+
+So whenever a company submits a 10-K, it is filed under that company’s CIK in the EDGAR system.
+
+If you're interested, I can also explain two other identifiers often confused with CIK in filings — CUSIP and Ticker symbols. They serve different purposes and analysts use them differently. 📊
+
+
+Can you verify the following CIKs with their respective companies: Apple -0000320193,
+    Meta-0001326801,
+    Alphabet-0001652044,
+    Amazon-0001018724,
+    Netflix-0001065280,
+    Goldman Sachs-0000886982?
+
+Yes — I verified each CIK against SEC/EDGAR records. Your mappings are correct. ✅
+
+Here is the verification:
+
+Company	CIK	Status
+Apple Inc.	0000320193	✅ Correct
+Meta Platforms, Inc.	0001326801	✅ Correct
+Alphabet Inc.	0001652044	✅ Correct
+Amazon.com, Inc.	0001018724	✅ Correct
+Netflix, Inc.	0001065280	✅ Correct
+The Goldman Sachs Group, Inc.	0000886982	✅ Correct
+Example confirmations
+Apple Inc. is registered in the SEC EDGAR system with CIK 0000320193. 
+
+Meta Platforms, Inc. uses CIK 0001326801 for all SEC filings. 
+
+Alphabet Inc. (Google’s parent company) is identified with CIK 0001652044. 
+
+Amazon.com, Inc. uses CIK 0001018724 in SEC filings. 
+
+Netflix, Inc. is associated with CIK 0001065280. 
+
+✔️ Conclusion:
+All the CIK–company pairs you listed are valid and correspond correctly to their respective filers in the SEC EDGAR system.
+
+💡 Since you’re checking CIKs, a useful trick analysts use is:
+
+CIK → company filings (10-K, 10-Q, 8-K)
+
+Ticker → stock trading info
+
+
+
