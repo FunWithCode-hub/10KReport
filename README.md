@@ -8,3 +8,7 @@ Run the script with Python as such:
 python3 sync_10k.py
 ```
 The 10-K reports will be saved as PDF files in the current directory.
+
+## Dependencies:
+- `requests` for the HTTP requests
+- `playwright` for rendering the PDFs from HTML
